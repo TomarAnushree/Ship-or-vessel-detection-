@@ -7,11 +7,9 @@ Keeping this in mind, a Governmental Maritime and Coastguard Agency is planning 
 
 There are 5 classes of ships to be detected which are as follows:
 
-
-![ship category](ship category.png)
-
 [Competition Link](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/)
 
+![ship category](ship category.png)
 
 There are 6252 images in train and 2680 images in test data. The categories of ships and their corresponding codes in the dataset are as follows -
 
