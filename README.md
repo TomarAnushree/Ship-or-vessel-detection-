@@ -6,7 +6,7 @@ Ship or vessel detection has a wide range of applications, in the areas of marit
 Keeping this in mind, a Governmental Maritime and Coastguard Agency is planning to deploy a computer vision based automated system to identify ship type only from the images taken by the survey boats. You have been hired as a consultant to build an efficient model for this project.
 There are 5 classes of ships to be detected which are as follows:
 
-![](ship category.PNG)
+![](ship category.png)
 
 There are 6252 images in train and 2680 images in test data. The categories of ships and their corresponding codes in the dataset are as follows -
 
